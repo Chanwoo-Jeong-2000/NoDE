@@ -22,7 +22,3 @@ python main_NoDE-LightGCN.py --dataset [dataset]
 ##### LightGCN
 ```
 python main_LightGCN.py --dataset [dataset]
-```
-
-# Results
-The results of the experiments are in the **results4comparison** folder.
