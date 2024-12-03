@@ -1,4 +1,4 @@
-# [WWW '25] GCNs Meet Long-tail: Negative Effects from Embedding Norm of GCN-Based Recommendations
+# [WWW '25] 
 
 # Requirements
 python 3.8.18, cuda 11.8, and the following installations:
