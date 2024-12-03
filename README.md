@@ -15,10 +15,13 @@ pip install pandas
 
 # Run
 Instead of **[dataset]**, substitute **Amazon-CD**, **Gowalla**, **Yelp** to run the code.
-##### NoDE-LightGCN (Ours)
+##### NoDE-LightGCN
 ```
 python main_NoDE-LightGCN.py --dataset [dataset]
 ```
-##### LightGCN
-```
-python main_LightGCN.py --dataset [dataset]
+
+##### NoDE-IMPGCN
+This code is reproducible via the following link: https://github.com/enoche/ImRec
+
+##### NoDE-LayerGCN
+This code is reproducible via the following link: https://github.com/enoche/ImRec
